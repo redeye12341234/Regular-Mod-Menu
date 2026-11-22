@@ -40,3 +40,4 @@ This project is developed entirely with ChatGPT
 
 The project idea and concept were created by **RedEye**
 
+<img width="1029" height="691" alt="{98BBF5B2-F762-4718-850B-2F34BC0C8EDA}" src="https://github.com/user-attachments/assets/30641d2d-8335-4c26-9329-6e47f410ab19" />
