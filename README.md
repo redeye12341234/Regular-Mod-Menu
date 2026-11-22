@@ -1,5 +1,4 @@
-[README.MD](https://github.com/user-attachments/files/35231096/README.MD)
-
+[README.md](https://github.com/user-attachments/files/35231211/README.md)
 **INSTALLATION**
 
 1. Add a folder somewhere on one of your drives
@@ -11,7 +10,7 @@
 
 
 ```
-dotnet restore; if ($?) { dotnet build -c Release }; if ($?) { Start-Process ".\bin\Release\net10.0-windows\Regular Mod Manager.exe" }
+dotnet restore; if ($?) { dotnet build -c Release }; if ($?) { Start-Process ".\\\\bin\\\\Release\\\\net10.0-windows\\\\Regular Mod Manager.exe" }
 ```
 
 
