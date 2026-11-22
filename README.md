@@ -6,6 +6,7 @@
 4. Make sure you have **.NET 10 SDK** installed before continuing (If you do not install **.NET 10 SDK** the project will fail to build)
 5. Open the extracted folder (named "Regular Mod Manager") in Terminal and run this command (right-click the folder and select Open in Terminal)
 
+<img width="600" height="404" alt="{98BBF5B2-F762-4718-850B-2F34BC0C8EDA}" src="https://github.com/user-attachments/assets/dbf63550-ee20-4df2-98c4-db5f4c10e5db" />
 
 
 ```
