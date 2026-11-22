@@ -18,6 +18,7 @@ It should now build and launch the application automatically and you can close t
 
 Enjoy!
 
+<img width="595" height="55" alt="{BA31515A-16C6-41A4-A9F5-282775757D0A}" src="https://github.com/user-attachments/assets/ff52df0c-58de-4c80-b271-4757b4297f11" />
 
 
 **IMPORTANT**
