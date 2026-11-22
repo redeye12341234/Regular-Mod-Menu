@@ -1,4 +1,4 @@
-[README.MD](https://github.com/user-attachments/files/35231021/README.MD)
+[README.MD](https://github.com/user-attachments/files/35231096/README.MD)
 
 **INSTALLATION**
 
@@ -10,7 +10,23 @@
 
 
 
-dotnet restore; if ($?) { dotnet build -c Release }; if ($?) { Start-Process ".\\bin\\Release\\net10.0-windows\\Regular Mod Manager.exe" }
+```powershell
+
+dotnet restore
+
+if ($?) {
+
+&#x20;   dotnet build -c Release
+
+}
+
+if ($?) {
+
+&#x20;   Start-Process ".\\bin\\Release\\net10.0-windows\\Regular Mod Manager.exe"
+
+}
+
+```
 
 
 
