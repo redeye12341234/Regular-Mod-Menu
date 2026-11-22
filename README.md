@@ -6,9 +6,6 @@
 4. Make sure you have **.NET 10 SDK** installed before continuing (If you do not install **.NET 10 SDK** the project will fail to build)
 5. Open the extracted folder (named "Regular Mod Manager") in Terminal and run this command (right-click the folder and select Open in Terminal)
 
-<img width="595" height="404" alt="{11A25045-49F5-45C8-9531-51E7D9CF0A3A}" src="https://github.com/user-attachments/assets/ec2648f1-5e19-4a4d-a12e-da7d48e633ce" />
-
-
 ```
 dotnet restore; if ($?) { dotnet build -c Release }; if ($?) { Start-Process ".\\\\bin\\\\Release\\\\net10.0-windows\\\\Regular Mod Manager.exe" }
 ```
@@ -17,7 +14,7 @@ dotnet restore; if ($?) { dotnet build -c Release }; if ($?) { Start-Process ".\
 
 It should now build and launch the application automatically and you can close the terminal (the .exe will be located in: " Regular Mod Manager\\bin\\Release\\net10.0-windows\\Regular Mod Manager.exe ")
 
-
+<img width="595" height="404" alt="{11A25045-49F5-45C8-9531-51E7D9CF0A3A}" src="https://github.com/user-attachments/assets/ec2648f1-5e19-4a4d-a12e-da7d48e633ce" />
 
 Enjoy!
 
