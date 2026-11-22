@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35231211/README.md)
 **INSTALLATION**
 
 1. Add a folder somewhere on one of your drives
