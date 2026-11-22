@@ -10,22 +10,7 @@
 
 
 
-```powershell
-
-dotnet restore
-
-if ($?) {
-
-&#x20;   dotnet build -c Release
-
-}
-
-if ($?) {
-
-&#x20;   Start-Process ".\\bin\\Release\\net10.0-windows\\Regular Mod Manager.exe"
-
-}
-
+```dotnet restore; if ($?) { dotnet build -c Release }; if ($?) { Start-Process ".\bin\Release\net10.0-windows\Regular Mod Manager.exe" }
 ```
 
 
